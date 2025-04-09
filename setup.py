@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-To-End-Machine-Learning-Project"
 AUTHOR_USER_NAME = "Durgeshsingh12712"
-SRC_REPO = "Wine-Quality-Prediction"
+SRC_REPO = "wineQualityPrediction"
 AUTHOR_EMAIL = "durgeshsingh12712@gmail.com"
 
 setuptools.setup(
