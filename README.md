@@ -86,3 +86,10 @@ env Python=3.8.20
     AWS_ECR_LOGIN_URI = demo>> 
 
     ECR_REPOSITORY_NAME = simple-app
+
+# After Successfull Deploy On AWS
+
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/WineQuality%20Aws%20%20Deploy/1.AWS%20Deploy.png)
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/WineQuality%20Aws%20%20Deploy/2.web%20page.png)
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/WineQuality%20Aws%20%20Deploy/3.train.png)
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/WineQuality%20Aws%20%20Deploy/4.pred.png)
