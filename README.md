@@ -1,5 +1,7 @@
 # End-To-End-Machine-Learning-Project
 
+Python=3.8.20
+
 ## Workflows
 
 1. Update config.yaml
@@ -45,7 +47,7 @@
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 
+    - Save the URI: 381509086193.dkr.ecr.us-east-1.amazonaws.com/winequalityrepo
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
