@@ -1,6 +1,6 @@
 # End-To-End-Machine-Learning-Project
 
-Python=3.8.20
+env Python=3.8.20
 
 ## Workflows
 
